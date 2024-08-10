@@ -1,0 +1,72 @@
+JMeter - RateLimiter Test.
+D:\Microservice-scrach-develop\apache-jmeter-5.6.2\bin
+run jmeter.bat (Window batch file)
+
+Resilance4J test:
+http://192.168.1.103:8081/actuator/health
+http://192.168.1.103:8081/users/9eda605f-f965-48ac-804b-b70c1291d22e
+
+
+
+
+okta login url
+http://localhost:8084/login/oauth2/code/okta
+
+user - senharishms108@gmail.com
+Pass - heyAccessMe@23
+BhmebRockPASS@23
+BhmebRock@24
+
+
+OKTA Login:
+myoktamanager@gmail.com
+ManageOkta01@24
+----------------------------------------------------------
+Reset password in okta:
+go to Directory -> People
+senharishma1108@gmail.com
+temp pass:xy8n9sCP
+
+okta main login url:
+http://localhost:8084/login/oauth2/code/okta
+Login: senharish108@gmail.com
+
+
+Login user: senharishms108@gmail.com
+Password: LearnToPass@24
+
+https://dev-87012510.okta.com/    --> Gateway -> login url -> after below url will generate.
+http://localhost:8084/auth/login   --> get token here
+
+
+Eureka server:
+http://localhost:8761/
+
+API Gateway:
+http://localhost:8084/
+Hit http://localhost:8084/auth/login and get token
+
+
+
+========================================================================
+
+UserServive - connected to MySQL DB
+HotelService - connected to Postgres DB
+RatingService - connected to MongoDB compass
+
+
+Okta Login process:
+--------------------------------
+Admin login:
+https://dev-87012510.okta.com/
+One time -
+Okta app > scan QR code > next login provide auth code
+Username: senharish108@gmail.com and sign with google authenticator
+Provide authentication from mobile with code.
+
+
+
+
+New user:
+senharishofficial@gmail.com
+WelcomeBot@24
